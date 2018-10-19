@@ -1,0 +1,5 @@
+<?php
+
+echo "THIS IS A SIMPLE WEB PAGE SERVED USING PHP";
+
+
